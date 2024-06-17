@@ -1,0 +1,6 @@
+overview of all the libraries
+
+- **Plotly**: An interactive graphing library that provides high-quality, publication-ready visualizations with zooming, panning, and other interactive features.
+- **Matplotlib**: A comprehensive library for creating static, animated, and interactive visualizations in Python, with fine-grained control over plot elements.
+- **Seaborn**: A statistical data visualization library built on Matplotlib, offering high-level interface for drawing attractive and informative statistical graphics.
+- **Bokeh**: An interactive visualization library that enables the creation of versatile and interactive plots, dashboards, and data applications in web browsers.
