@@ -1,0 +1,16 @@
+blinker==1.8.2
+click==8.1.7
+Flask==3.0.3
+importlib_metadata==7.2.0
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+Werkzeug==3.0.3
+zipp==3.19.2
+
+# this is requirements.txt needed for sharing your project
+# this is very important file 
+# for all your projects setting up versions is the first step
+
+# to install them in your environment pip install -r requirements.txt 
+# first place this file then run this command
